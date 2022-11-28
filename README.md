@@ -1,2 +1,1 @@
-# magiskemu
- magiskemu noxplayer
+This repo is no longer used. For Android-x86 users (BlissOS, PhoenixOS,...), please use [initrd-magisk](http://github.com/HuskyDG/initrd-magisk) instead. For Emulator users, Magisk Delta support Magisk installation into system partition in Magisk app, you can check out [Magisk Delta](http://huskydg.github.io/magisk-files) (Support Android 7+ Emulator: NoxPlayer, MEmu, LDPlayer,...) 
