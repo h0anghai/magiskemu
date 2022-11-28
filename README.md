@@ -1,0 +1,2 @@
+# magiskemu
+ magiskemu noxplayer
